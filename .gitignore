@@ -16,3 +16,5 @@ pairing/
 hermes-agent/
 *.lock
 __pycache__/
+source-checks/
+telemetry/
