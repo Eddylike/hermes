@@ -18,3 +18,14 @@ hermes-agent/
 __pycache__/
 source-checks/
 telemetry/
+
+# Auth-Tokens
+auth.json
+shared/
+
+# Lokaler State
+*.db
+*.db-shm
+*.db-wal
+.skills_prompt_snapshot.json
+context_length_cache.yaml
